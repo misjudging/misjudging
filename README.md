@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misjudging&show_icons=true&theme=github_dark&cache_seconds=1800" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&center=true&vCenter=true&width=900&lines=Hey+there+%F0%9F%91%8B;Software+Development+Student+%F0%9F%8E%93;Building+Cool+Projects+%F0%9F%9A%80;Open+Source+%7C+Learning+%7C+Creating+%F0%9F%92%BB" />
 </p>
 
 # Hi there 👋
@@ -38,8 +38,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=misjudging&show_icons=true&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misjudging&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misjudging&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=misjudging&theme=github_dark&utcOffset=0" />
+</p>
+
 ---
 
 ## 🔥 GitHub Streak
@@ -48,15 +54,10 @@
 
 ---
 
-
-
-⭐ Feel free to explore my repositories and leave feedback!
-
-
-
----
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/misjudging/misjudging/output/github-contribution-grid-snake-dark.svg)
 
+---
+
+⭐ Feel free to explore my repositories and leave feedback!
