@@ -46,4 +46,4 @@
 
 ---
 
-⭐ Feel free to explore my repositories and leave feedback!
+⭐ Please feel free to explore my repositories and leave feedback!
