@@ -55,3 +55,13 @@
 ---
 
 ⭐ Feel free to explore my repositories and leave feedback!
+
+
+
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/misjudging/misjudging/blob/output/github-contribution-grid-snake.svg)
+
