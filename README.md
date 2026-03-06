@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Hey+there+%F0%9F%91%8B;Software+Development+Student+%F0%9F%8E%93;Building+Cool+Projects+%F0%9F%9A%80;Open+Source+%7C+Learning+%7C+Creating+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=misjudging&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
-
 
 # Hi there 👋
 
@@ -38,8 +37,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=misjudging&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=misjudging&show_icons=true&theme=github_dark" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
