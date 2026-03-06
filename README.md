@@ -1,18 +1,18 @@
 # Hi there 👋
 
 🎓 Software Development Student  
-💻 Passionate about building projects and learning new technologies  
-🚀 Sharing open-source projects to help others and improve my skills  
-🤝 Always open to feedback and collaboration  
+💻 Building projects and learning new technologies  
+🚀 Sharing open-source projects to help others and improve  
+🤝 Open to feedback and collaboration  
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Currently studying **Software Development**
-- 💡 I enjoy building projects and experimenting with new ideas
-- 📚 Always learning and improving my coding skills
-- 🌍 Sharing projects through **open-source**
+- 🎓 Studying **Software Development**
+- 💡 I enjoy building useful projects
+- 📚 Constantly improving my coding skills
+- 🌍 Sharing my work through **open-source**
 
 ---
 
@@ -25,12 +25,9 @@
 
 ---
 
-## 🎯 Current Goals
+## 👀 Profile Views
 
-- 🚀 Build useful **open-source projects**
-- 📚 Improve my **software development skills**
-- 🤝 Contribute to **other open-source projects**
-- 💼 Prepare for a **career in software development**
+![](https://komarev.com/ghpvc/?username=misjudging&color=blue)
 
 ---
 
@@ -40,10 +37,16 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=misjudging&theme=tokyonight)
+
+---
+
 ## 🔥 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misjudging&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ Please feel free to explore my repositories and leave feedback!
+⭐ Feel free to explore my repositories and leave feedback!
