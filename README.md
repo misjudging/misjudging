@@ -48,14 +48,9 @@
 
 ---
 
-## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misjudging&layout=compact&theme=tokyonight)
-
----
 
 ⭐ Feel free to explore my repositories and leave feedback!
-
 
 
 
