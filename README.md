@@ -63,5 +63,5 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/misjudging/misjudging/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/misjudging/misjudging/output/github-contribution-grid-snake-dark.svg)
 
