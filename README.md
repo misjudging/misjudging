@@ -1,56 +1,27 @@
-﻿# 👋 Hey, I'm Misjudging
+﻿# Misjudging
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=180&section=header&text=Misjudging&fontSize=48&fontColor=ffffff&animation=fadeIn" />
-</p>
+![Status](https://img.shields.io/badge/status-active-22c55e?style=for-the-badge)
+![License](https://img.shields.io/badge/license-open--source-0ea5e9?style=for-the-badge)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Development+Student;Building+CLI+Tools+and+Learning+Daily;Tracking+Decisions+with+Misjudging" alt="Typing SVG" />
-</p>
+> A decision journal CLI for calls, outcomes, and growth.
 
-## 🎓 Software Development Student
-💻 Passionate about building tools, learning new technologies, and contributing to open source.
+## Highlights
 
-## 🚀 About Me
+- CLI-first workflow
+- Stats and progress tracking
+- Search, random picks, and nudges
 
-- 🧠 Currently studying Software Development
-- 🛠️ I enjoy building useful tools and CLI programs
-- 🌱 Currently learning Python, JavaScript, and backend development
-- 🎮 Interested in gaming tools and performance utilities
-- 📈 Always trying to improve my coding skills
+## Quick Start
 
-## 🧰 Tech Stack
+```bash
+git clone <repo-url>
+cd misjudging
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## About
 
-## 📊 GitHub Stats
+This repository is part of my developer journey and is built to be practical, clean, and easy to use.
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=misjudging&show_icons=true&theme=tokyonight&cache_seconds=86400)
+## Open Source
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=misjudging&theme=tokyonight&cache_seconds=86400)
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=misjudging&style=for-the-badge)
-
-## 📂 Projects I'm Working On
-
-- 🎮 FPS Benchmark Logger - Track game performance benchmarks
-- 🧹 Duplicate File Cleaner - Find and remove duplicate files
-- ⚡ More tools coming soon...
-
-## ⚡ Quick Cool Features
-
-- `python misjudging.py stats` -> overview of progress and outcome trends
-- `python misjudging.py random` -> picks a random open judgement
-- `python misjudging.py search "keyword"` -> finds matching entries fast
-- `python misjudging.py nudge --limit 5` -> shows oldest open calls to close next
-- `python misjudging.py reopen 3` -> reopens a closed entry if needed
-
-
+This project is open source and free to use.
