@@ -163,6 +163,36 @@ def random_open_entry() -> None:
     print(f"Random open pick -> #{pick.id}: {pick.statement}")
 
 
+def reopen_entry(entry_id: int) -> None:
+    entries = load_entries()
+    for e in entries:
+        if e.id == entry_id:
+            if not e.closed:
+                print(f"Entry #{entry_id} is already open.")
+                return
+            e.closed = False
+            e.outcome = ""
+            e.closed_at = ""
+            save_entries(entries)
+            print(f"Reopened entry #{entry_id}")
+            return
+    print(f"Entry #{entry_id} not found.")
+
+
+def nudge_entries(limit: int) -> None:
+    entries = [e for e in load_entries() if not e.closed]
+    if not entries:
+        print("No open entries.")
+        return
+
+    now = datetime.now(UTC)
+    oldest = sorted(entries, key=lambda e: parse_iso_timestamp(e.created_at))[:limit]
+    print(f"Oldest open entries (top {len(oldest)}):")
+    for e in oldest:
+        age_days = (now - parse_iso_timestamp(e.created_at).astimezone(UTC)).days
+        print(f"- #{e.id} ({age_days} day(s) old): {e.statement}")
+
+
 def close_entry(entry_id: int, outcome: str) -> None:
     entries = load_entries()
     for e in entries:
@@ -192,6 +222,10 @@ def main() -> None:
     search_cmd = sub.add_parser("search")
     search_cmd.add_argument("query")
     sub.add_parser("random")
+    reopen_cmd = sub.add_parser("reopen")
+    reopen_cmd.add_argument("id", type=int)
+    nudge_cmd = sub.add_parser("nudge")
+    nudge_cmd.add_argument("--limit", type=int, default=5)
 
     close_cmd = sub.add_parser("close")
     close_cmd.add_argument("id", type=int)
@@ -209,6 +243,10 @@ def main() -> None:
         search_entries(args.query)
     elif args.command == "random":
         random_open_entry()
+    elif args.command == "reopen":
+        reopen_entry(args.id)
+    elif args.command == "nudge":
+        nudge_entries(args.limit)
     elif args.command == "close":
         close_entry(args.id, args.outcome)
 

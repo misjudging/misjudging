@@ -1,5 +1,13 @@
 ﻿# 👋 Hey, I'm Misjudging
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=180&section=header&text=Misjudging&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Development+Student;Building+CLI+Tools+and+Learning+Daily;Tracking+Decisions+with+Misjudging" alt="Typing SVG" />
+</p>
+
 ## 🎓 Software Development Student
 💻 Passionate about building tools, learning new technologies, and contributing to open source.
 
@@ -35,3 +43,11 @@
 - 🎮 FPS Benchmark Logger - Track game performance benchmarks
 - 🧹 Duplicate File Cleaner - Find and remove duplicate files
 - ⚡ More tools coming soon...
+
+## ⚡ Quick Cool Features
+
+- `python misjudging.py stats` -> overview of progress and outcome trends
+- `python misjudging.py random` -> picks a random open judgement
+- `python misjudging.py search "keyword"` -> finds matching entries fast
+- `python misjudging.py nudge --limit 5` -> shows oldest open calls to close next
+- `python misjudging.py reopen 3` -> reopens a closed entry if needed
