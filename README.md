@@ -28,11 +28,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=misjudging&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=misjudging&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=misjudging&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=misjudging&theme=tokyonight&cache_seconds=86400)
 
 ## 👀 Profile Views
 
@@ -51,3 +51,5 @@
 - `python misjudging.py search "keyword"` -> finds matching entries fast
 - `python misjudging.py nudge --limit 5` -> shows oldest open calls to close next
 - `python misjudging.py reopen 3` -> reopens a closed entry if needed
+
+
