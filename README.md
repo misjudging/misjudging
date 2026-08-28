@@ -1,4 +1,4 @@
-﻿# 👋 Hey, I'm Misjudging
+﻿# 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=180&section=header&text=Misjudging&fontSize=48&fontColor=ffffff&animation=fadeIn" />
@@ -15,7 +15,7 @@
 
 - 🧠 Currently studying Software Development
 - 🛠️ I enjoy building practical CLI tools
-- 🌱 Currently learning Python, Java, C++, and backend development
+- 🌱 Currently learning Python, Java, C++, Lua and backend development
 - 🎮 Interested in gaming tools and performance utilities
 - 📈 Always improving my coding skills
 
@@ -43,7 +43,7 @@
 
 - 🎮 FPS Benchmark Logger - Track game performance benchmarks
 - 🧹 Duplicate File Cleaner - Find and remove duplicate files
-- ⚡ More tools coming soon...
+- ⚡ Fivem and Fortnite optimisation tool
 
 ## ⚡ Quick Cool Features
 
